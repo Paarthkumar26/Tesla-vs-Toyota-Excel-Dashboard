@@ -10,7 +10,8 @@ across key performance metrics such as:
 - Model-wise Comparison
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+<img width="1025" height="464" alt="Capture" src="https://github.com/user-attachments/assets/f9e4da75-d173-462d-ad83-f0cebd2976eb" />
+
 
 ## 📁 Files Included
 - **Tesla_vs_Toyota_Dashboard.xlsx** → Interactive Excel dashboard
